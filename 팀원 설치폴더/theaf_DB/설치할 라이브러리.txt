@@ -1,0 +1,2 @@
+아나콘다 주피터 맨 위에 기록해 주세요~
+!pip install cvlib
