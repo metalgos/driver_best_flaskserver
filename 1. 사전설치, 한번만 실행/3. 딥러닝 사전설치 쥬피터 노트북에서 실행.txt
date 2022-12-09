@@ -5,3 +5,5 @@
 !pip install Flask-MySQL
 
 !pip install pip install flask-cors
+
+!pip install cvlib
