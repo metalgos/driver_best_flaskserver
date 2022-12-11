@@ -6,4 +6,4 @@
 
 !pip install pip install flask-cors
 
-!pip install cvlib
+pip install cvlib
