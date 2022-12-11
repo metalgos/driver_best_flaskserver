@@ -1,0 +1,14 @@
+1. 아나콘다 프롬프트 에서 한줄씩 실행
+
+
+conda install git
+
+conda install pyqt=5
+
+conda install imutils
+
+conda install -c conda-forge dlib
+
+
+
+

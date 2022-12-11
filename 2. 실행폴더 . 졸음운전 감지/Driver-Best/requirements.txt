@@ -1,6 +1,0 @@
-opencv-python
-cmake
-dlib
-imutils
-playsound
-tensorflow==1.14.0

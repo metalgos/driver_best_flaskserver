@@ -1,0 +1,24 @@
+https://www.pythonanywhere.com/user/kyscodeman/consoles/26571097/
+
+3.7 파이썬 버전으로 만들경우
+
+
+pip install cvlib
+
+pip install h5py
+
+pip install opencv-python
+
+pip install cvlib
+
+pip install pip install flask-cors
+
+pip install Flask-MySQL
+
+
+--- 필요없는것, 코드에서 제거 필요
+pip install playsound
+
+
+
+버전 확인 주의
